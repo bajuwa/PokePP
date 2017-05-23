@@ -1,0 +1,7 @@
+<9:15:19 AM> TEST : [ALL][runTests] Initializing tests
+<9:15:19 AM> PASS : [ALL][CollectionUtilsTest] 
+<9:15:19 AM> PASS : [ALL][TokenizerTest] 
+<9:15:19 AM> PASS : [ALL][ExcelUtilsTest] 
+<9:15:19 AM> PASS : [ALL][PartyTextParserTest] 
+<9:15:19 AM> TEST : [ALL][runTests] Successful: 4, Failed: 0, Errors: 0, Untested: 0
+<9:15:19 AM> TEST : [ALL][runTests] Terminating tests

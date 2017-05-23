@@ -1,0 +1,20 @@
+Party Name: White
+Game: Black/White
+
+Pokemon: Aggron
+Moveset: Iron Defense, Earthquake, Heavy Slam, Stone Edge
+
+Pokemon: Serperior
+Moveset: Leech Seed, Giga Drain, Growth, Glare
+
+Pokemon: Gengar
+Moveset: Thunderbolt, Shadow Ball, Sludge Wave, Psychic
+
+Pokemon: Dragonite
+Moveset: Fire Punch, ThunderPunch, Aqua Tail, Fly
+
+Pokemon: Lapras
+Moveset: Signal Beam, Ice Beam, Surf, AncientPower
+
+Pokemon: Mienshao
+Moveset: Fake Out, Drain Punch, Bounce, Rock Slide
